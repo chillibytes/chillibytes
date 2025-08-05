@@ -47,7 +47,7 @@
 </p>
 
 <p>
-    <img src="https://github-readme-stats-re1e4ses-projects.vercel.app/api/top-langs?username=chillibytes&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+    <img src="https://github-readme-stats-re1e4ses-projects.vercel.app/api/top-langs?username=chillibytes&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=github-readme-stats" alt="Most Used Languages"/>
 </p>
 
 ---
